@@ -7,7 +7,7 @@
 
   <groupId>ome</groupId>
   <artifactId>bio-formats_plugins</artifactId>
-  <version>5.3.5-SNAPSHOT</version>
+  <version>5.8.2</version>
 
   <name>Bio-Formats Plugins for ImageJ</name>
   <description>A collection of plugins for ImageJ, including the Bio-Formats Importer, Bio-Formats Exporter, Bio-Formats Macro Extensions, Data Browser and Stack Slicer.</description>
@@ -161,8 +161,8 @@
   </dependencies>
 
   <properties>
-    <bioformats.version>5.7.3</bioformats.version>
-    <imagej1.version>1.51r</imagej1.version>
+    <bioformats.version>5.8.2</bioformats.version>
+    <imagej1.version>1.52a</imagej1.version>
     <jgoodies-forms.version>1.7.2</jgoodies-forms.version>
     <logback.version>1.1.1</logback.version>
     <slf4j.version>1.7.6</slf4j.version>
