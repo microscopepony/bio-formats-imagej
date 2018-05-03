@@ -235,6 +235,9 @@ Data Browser and Stack Slicer.</projectName>
           <suiteXmlFiles>
             <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
           </suiteXmlFiles>
+          <systemPropertyVariables>
+            <bioformats_can_do_upgrade_check>false</bioformats_can_do_upgrade_check>
+          </systemPropertyVariables>
         </configuration>
       </plugin>
 
